@@ -532,5 +532,6 @@ int main(int argc, const char * argv[]) {
 
         Graph g(n, edges);
     cout<<g.sumOfConnectedComponents();
+    cout<<"Hello world";
     
 }
