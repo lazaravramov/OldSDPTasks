@@ -504,5 +504,7 @@ int main(int argc, const char * argv[]) {
     Node<stack<int>>* ll=new Node<stack<int>>(s1,new Node<stack<int>>(s2,new Node<stack<int>>(s3,new Node<stack<int>>(s4))));
     equalize(ll);
     cout<<"Fixed the texting";
-    cout<<"Abrakadbra";
+
+    cout<<"Aloha";
+
 }
